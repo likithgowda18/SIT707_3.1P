@@ -10,13 +10,13 @@ public class DateUtilTest {
 
     @Test
     public void testStudentIdentity() {
-        String studentId = "223644982";
+        String studentId = "223129079";
         Assert.assertNotNull("Student ID is null", studentId);
     }
 
     @Test
     public void testStudentName() {
-        String studentName = "Dilshan Mohotti";
+        String studentName = "Likith Gowda";
         Assert.assertNotNull("Student name is null", studentName);
     }
 
